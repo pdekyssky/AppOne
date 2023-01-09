@@ -1,8 +1,16 @@
+
+import Book from "./components/Book"
 import './App.css'
 
 const App  = () => {
     return (
-        <p>Ahoj ahoj</p>
+        <div>
+            <h1> Booking</h1>
+            <Book />
+            <Book />
+            <Book />
+            <Book />
+        </div>
     )
 }
 export default App
