@@ -2,7 +2,7 @@ import './App.css'
 
 const App  = () => {
     return (
-        <p>agoj</p>
+        <h1>Ahoj</h1>
     )
 }
 export default App
