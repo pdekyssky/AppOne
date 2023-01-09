@@ -2,7 +2,7 @@ import './App.css'
 
 const App  = () => {
     return (
-        <h1>Ahoj</h1>
+        <p>Ahoj ahoj</p>
     )
 }
 export default App
